@@ -1,6 +1,7 @@
 print('SELAMAT DATANG DI PROGRAM INPUT BIODATA')
 print('===============================')
 
+
 #input dari user
 nama = input('Nama : ')
 kota_asal = input('asal : ')
