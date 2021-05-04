@@ -1,0 +1,7 @@
+Nama: Titus
+asal: solo
+usia: 18Nama: tituz
+asal: solo
+usia: 18Nama: Dias
+asal: Solo
+usia: 18
